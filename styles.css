@@ -1,0 +1,43 @@
+
+body {
+    font-family: Arial, sans-serif;
+    height: 100vh;
+    margin: 0;
+    background-color:bisque;
+    background-image: url("image.css");
+    
+  }
+
+  .countdown{
+    display:flex;
+    padding-left: 35%;
+    margin-top: 190px;
+  }
+
+
+    .countdown div{
+    background-color:greenyellow;
+  }
+  
+  
+  
+  .countdown-item {
+    text-align: center;
+    margin: 15px 25px;
+  }
+  
+  .countdown-number {
+    font-size: 45px;
+    font-weight: bold;
+  }
+  .countdown-label {
+    font-size: 14px;
+
+    
+  }
+  h1{
+    text-align: center;
+    color:blue;
+    font-weight: bold;
+    font-size: 50px;
+  } 
